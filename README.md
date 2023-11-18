@@ -191,12 +191,12 @@ railway.html
 ```
 
 ## OUTPUT
-![Alt text](1.png)
-![Alt text](home.png)
-![Alt text](templ.png)
-![Alt text](<saravana poigai.png>)
-![Alt text](hospital.png)
-![Alt text](rail.png)
+![1](https://github.com/HariharanJayavel/NearMe/assets/144870546/714f4464-aff4-4314-9755-9f459aa83b43)
+![home](https://github.com/HariharanJayavel/NearMe/assets/144870546/effa7335-f662-4e8f-8cf7-cec3918f257e)
+![templ](https://github.com/HariharanJayavel/NearMe/assets/144870546/4b81147b-6249-495e-b6e8-a24969aac95c)
+![saravana poigai](https://github.com/HariharanJayavel/NearMe/assets/144870546/145e8ed2-e3a9-4511-99da-ea58902d1226)
+![hospital](https://github.com/HariharanJayavel/NearMe/assets/144870546/f30bc053-b1f7-4b7c-8542-7d9e536b8cc9)
+![rail](https://github.com/HariharanJayavel/NearMe/assets/144870546/507ebfe0-3689-4dac-8673-cfbaebb266e5)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
