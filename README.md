@@ -45,7 +45,7 @@ map.html
                 <area shape="rect" coords="300,300,700,600" href="temple.html" title="The Arulmigu Subramaniya Swamy Temple">
                 <area shape="rect" coords="808,398,905,434" href="hospital.html" title="Peacock Hospital">
                 <area shape="rect" coords="550,100,800,800" href="railway.html" title="Thiruttani Railway Station">
-                <area shape="rect" coords="100,100,700,600" href="saravana poigai.html" title="Saravana Poigai">
+                <area shape="rect" coords="290,290,700,600" href="saravana poigai.html" title="Saravana Poigai">
             </map>
         </center>
     </body>
